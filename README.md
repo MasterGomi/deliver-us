@@ -28,7 +28,7 @@ This page is perhaps the most overall complex page. Here we must retrieve the in
 Additionally, in order to make the game as accessible as possible, this page was written so that players can complete their delivery even if something goes wrong. As such, the code has an alternate submission protocol that is able to maximise player participation even in the face of these errors.
 
 ## Databse management page
-[This](Database Management.js) page was a hidden page to allow us an easy way to add artificial data to the databases. It also contained a particularly complex method that would allow multiple points to be added to the database simultaneously and as part of a line.
+[This](Database%20Management.js) page was a hidden page to allow us an easy way to add artificial data to the databases. It also contained a particularly complex method that would allow multiple points to be added to the database simultaneously and as part of a line.
 
 ## Request page
 [This](Request.js) page was a very simple page that allowed players to request a location for a package to be sent nearby to, as well as an email address to send them a notification when there's a package nearby.
